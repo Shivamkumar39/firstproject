@@ -1,0 +1,7 @@
+{
+    "[django-html]": {
+        "editor.defaultFoldingRangeProvider": null
+    },
+    "editor.defaultFoldingRangeProvider": "",
+    "html.format.templating": true
+}
